@@ -8,7 +8,7 @@ end
 if int % 3 and 5
   "FizzBuzz"
 end
-if int !% 3 | | 5
+if int !% 3 || 5
   "nil"
 end
 end
