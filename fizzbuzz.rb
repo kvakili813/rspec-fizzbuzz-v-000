@@ -5,7 +5,7 @@ end
 if int % 5 == 0
   "Buzz"
 end
-if int % 3 and 5 == 0
+if int % 3 && 5 == 0
   "FizzBuzz"
 end
 if int !% 3 || !% 5 == 0
